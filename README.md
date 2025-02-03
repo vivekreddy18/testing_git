@@ -1,2 +1,2 @@
 # testing_git
-this is just to undurtand and test git and github
+this is just to understand and test git and git hub
